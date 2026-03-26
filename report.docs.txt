@@ -1,0 +1,35 @@
+AI Resume Analyzer
+
+1. Introduction
+
+This project focuses on analyzing resume text to identify skills and suggest improvements. It helps students understand their strengths and missing skills.
+
+2. Problem Statement:
+
+Many students are not aware of the skills required for jobs and internships. They often create resumes without knowing what is missing.
+
+3. Methodology:
+
+The system uses a predefined list of skills such as Python, Java, AI, and Data Science. It compares these skills with the resume text entered by the user.
+
+4. Implementation:
+
+The project is implemented using Python. It takes input from the user, processes the text, and checks for matching skills. Based on this, it displays results.
+
+5. Features:
+
+Detects skills present in resume
+Identifies missing skills
+Calculates resume score
+Provides suggestions
+
+6. Challenges:
+
+Selecting relevant skills
+Matching text accurately
+
+7. Conclusion:
+
+This project helps students improve their resumes by identifying missing skills and giving suggestions for improvement.
+
+
